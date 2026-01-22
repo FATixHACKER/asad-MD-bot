@@ -1,0 +1,19 @@
+[phases.setup]
+nixPkgs = [
+    "nodejs",
+    "ffmpeg",
+    "libwebp",
+    "python3",
+    "gnumake",
+    "gcc",
+    "pkg-config",
+    "cairo",
+    "pango",
+    "libpng",
+    "libjpeg",
+    "giflib",
+    "librsvg"
+]
+
+[start]
+cmd = "node index.js"
