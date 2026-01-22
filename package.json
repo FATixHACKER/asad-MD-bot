@@ -1,7 +1,6 @@
 {
-  "name": "asad-md-bot",
+  "name": "asad-bot",
   "version": "1.0.0",
-  "description": "Asad Powerful Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
