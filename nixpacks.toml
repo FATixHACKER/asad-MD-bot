@@ -1,8 +1,7 @@
 [phases.setup]
 nixPkgs = [
-    "nodejs-18_x",
+    "nodejs-18_x", 
     "ffmpeg",
-    "libwebp",
     "python3",
     "gnumake",
     "gcc",
